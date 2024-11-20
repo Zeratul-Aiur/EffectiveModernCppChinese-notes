@@ -3,6 +3,7 @@
         "constexpr",
         "decltype",
         "noexcept",
-        "nullptr"
+        "nullptr",
+        "Pimpl"
     ]
 }
